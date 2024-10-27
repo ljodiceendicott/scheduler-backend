@@ -3,7 +3,7 @@
 Ever need to stay organized/Not sure where you or your team are supposed to be meeting for at 3:30 today?
 
 What about find one of your colleageus or Supervisors as you do not know their schedules?
-E
+
 This is a solution that should allow for these issues to be subsided.
 
 This is the back-end portion of my scheduler project that will be used to communicate to the client side the data that is being requested.
