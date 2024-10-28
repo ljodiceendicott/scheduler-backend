@@ -9,7 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@planetscale/database": "^1.19.0",
+    "@vercel/postgres": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.35.3",
     "express": "^4.21.1",
-    "mongoose": "^8.7.3"
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.3",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.26.2",
+    "tsx": "^4.19.2"
   }
 }
